@@ -1,0 +1,125 @@
+body{
+  background-image: url('../img/gurrenLagann.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.h1{
+    font-size: 50px;
+    color: white;
+}
+
+.header{
+  text-align: center;
+  color: #8E9EB6;
+  font-family: 'Sarpanch', sans-serif;
+  text-shadow: 3px 3px 3px black;
+  margin-top: -20px;
+  background-color: black;
+  border-style: ridge;
+  border-color: gray;
+}
+
+
+label{
+  color: white;
+  text-shadow: 2px 2px 2px black;
+}
+
+input{
+  border-radius: 5px;
+}
+#formDiv{
+  text-align: center;
+  margin-top: 60px;
+  margin-left: 454px;
+  margin-right: 453px;
+  border-style: groove;
+  border-width: 4px;
+  border-style: ridge;
+  border-color: gray;
+  border-radius: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+}
+
+#phoneNumber{
+  margin-left: 3px;
+  font-size: 15px;
+}
+
+.male{
+  color: white;
+}
+
+#introDiv {
+  text-align: center;
+  color: white;
+  font-size: 25px;
+  font-family: 'Rubik Mono One', sans-serif;
+  text-shadow: 5px 5px 5px black;
+
+}
+#introDiv2 {
+  text-align: center;
+  color: white;
+  font-size: 12px;
+  font-family: 'Rubik Mono One', sans-serif;
+  text-shadow: 5px 5px 5px black;
+
+}
+#genderDiv {
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  text-shadow: 2px 2px 2px black;
+
+}
+#firstNameDiv {
+  position: relative;
+  display: inline-block;
+  margin-left: 646px;
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  text-shadow: 2px 2px 2px black;
+
+}
+#lastNameDiv {
+  position: relative;
+  display: inline-block;
+  margin-left: 8px;
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  text-shadow: 2px 2px 2px black;
+
+}
+#phoneNumberDiv {
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  text-shadow: 2px 2px 2px black;
+
+}
+#emailDiv {
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  text-shadow: 2px 2px 2px black;
+
+}
+#button{
+  text-align: center;
+  margin-left: 621px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border-radius: 5px;
+  outline-style: none;
+}
